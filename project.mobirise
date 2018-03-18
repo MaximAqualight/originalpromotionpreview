@@ -126,13 +126,13 @@
             "H1": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "80px",
+              "font-size": "72px",
               "color": "#fac51c"
             },
             "P": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "60px",
+              "font-size": "48px",
               "color": "#f97352"
             }
           },
@@ -518,13 +518,13 @@
             "H1": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "80px",
+              "font-size": "72px",
               "color": "#fac51c"
             },
             "P": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "60px",
+              "font-size": "48px",
               "color": "#f97352"
             }
           },
