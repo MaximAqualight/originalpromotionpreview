@@ -114,8 +114,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ORIGINAL PROMOTION<br><br>",
-          "text": "COMPANY",
+          "title": "ORIGINAL &nbsp;PROMOTION&nbsp;<br><br>",
+          "text": "<br>COMPANY",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -506,8 +506,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ORIGINAL PROMOTION<br><br>",
-          "text": "COMPANY",
+          "title": "ORIGINAL &nbsp;PROMOTION&nbsp;<br><br>",
+          "text": "<br>COMPANY",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -927,8 +927,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ORIGINAL PROMOTION<br><br>",
-          "text": "COMPANY",
+          "title": "ORIGINAL &nbsp;PROMOTION&nbsp;<br><br>",
+          "text": "<br>COMPANY",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -940,13 +940,13 @@
             "H1": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "80px",
+              "font-size": "72px",
               "color": "#fac51c"
             },
             "P": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "60px",
+              "font-size": "48px",
               "color": "#f97352"
             }
           }
