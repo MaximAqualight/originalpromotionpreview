@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Original Promotion",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -114,8 +114,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ORIGINAL &nbsp;PROMOTION&nbsp;<br><br>",
-          "text": "<br>COMPANY",
+          "title": "ORIGINAL PROMOTION<br><br>",
+          "text": "COMPANY",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -126,13 +126,13 @@
             "H1": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "72px",
+              "font-size": "60px",
               "color": "#fac51c"
             },
             "P": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "48px",
+              "font-size": "36px",
               "color": "#f97352"
             }
           },
@@ -506,8 +506,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ORIGINAL &nbsp;PROMOTION&nbsp;<br><br>",
-          "text": "<br>COMPANY",
+          "title": "ORIGINAL PROMOTION<br><br>",
+          "text": "COMPANY",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -518,13 +518,13 @@
             "H1": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "72px",
+              "font-size": "60px",
               "color": "#fac51c"
             },
             "P": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "48px",
+              "font-size": "36px",
               "color": "#f97352"
             }
           },
@@ -927,8 +927,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ORIGINAL &nbsp;PROMOTION&nbsp;<br><br>",
-          "text": "<br>COMPANY",
+          "title": "ORIGINAL PROMOTION<br><br>",
+          "text": "COMPANY",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -940,13 +940,13 @@
             "H1": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "72px",
+              "font-size": "60px",
               "color": "#fac51c"
             },
             "P": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "48px",
+              "font-size": "36px",
               "color": "#f97352"
             }
           }
